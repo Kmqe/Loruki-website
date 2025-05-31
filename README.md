@@ -1,6 +1,6 @@
 # 🚀 Loruki Website
 
-🔗**DEMO** [visit](https://kmqe.github.io/kasper/)
+🔗**DEMO** [visit](https://kmqe.github.io/Loruki-website/)
 
 ## 📋 Overview
 
